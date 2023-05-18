@@ -1,0 +1,26 @@
+.container{
+  width: 150px;
+  margin: 0 auto;
+}
+img{
+  width: 200px;
+  float: left;
+}
+.image-container {
+  flex-shrink: 0;
+  margin-right: 20px;
+}
+.bio {
+  overflow: hidden;
+}
+dl {
+  margin-top: 0;
+}
+
+dt {
+  font-weight: bold;
+}
+
+dd {
+  margin-left: 0;
+}
